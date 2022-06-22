@@ -1,8 +1,8 @@
 {
   "name": "tetion-eris-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "boilerplate for eris :D",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "icedTet <tet@tet.moe>",
   "license": "MIT",
   "devDependencies": {
@@ -11,7 +11,7 @@
     "typescript": "^4.7.4"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "dependencies": {
