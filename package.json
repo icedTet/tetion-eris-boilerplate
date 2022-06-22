@@ -1,6 +1,6 @@
 {
   "name": "tetion-eris-boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "boilerplate for eris :D",
   "main": "dist/index.js",
   "author": "icedTet <tet@tet.moe>",
