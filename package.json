@@ -1,0 +1,25 @@
+{
+  "name": "tetion-eris-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for eris :D",
+  "main": "index.js",
+  "author": "icedTet <tet@tet.moe>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.7.4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
+  "dependencies": {
+    "eris": "^0.17.0",
+    "mongodb": "^4.7.0"
+  },
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "build": "tsc"
+  }
+}
